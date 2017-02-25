@@ -1,0 +1,30 @@
+{
+  "name": "html-webpack-layout-more-plugin",
+  "version": "1.0.0",
+  "description": "Write html files and add layout.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clixiang/html-webpack-layout-more-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html-webpack-plugin",
+    "disk",
+    "template"
+  ],
+  "author": "Lixiang <lixiang761@126.com> (https://github.com/clixiang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clixiang/html-webpack-layout-more-plugin/issues"
+  },
+  "homepage": "https://github.com/clixiang/html-webpack-layout-more-plugin",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.16.0",
+    "webpack": "^1.13.0"
+  }
+}
